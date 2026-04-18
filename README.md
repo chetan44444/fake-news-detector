@@ -52,3 +52,4 @@ streamlit run app.py
 ---
 ## Live Demo
 https://fake-news-detector-newzy.streamlit.app/
+
